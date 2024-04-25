@@ -1,2 +1,4 @@
-# .github
-Description of ISDD
+# ISDD
+
+**imagination, sentiment, development, dream**
+
